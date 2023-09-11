@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Hieser21/hieser21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I am Arafat Rahman
+## Also known as Hieser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![](https://img.shields.io/badge/LinkedIn-arafatrahaman-blue)](https://www.linkedin.com/in/arafat-rahman-b00766232/)
+[![](https://img.shields.io/badge/Gmail-rarafat883010%40gmail.com-red)](mailto:rarafat883@gmail.com)
+
+  
+
+```javascript
+const hieser = {
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express"],
+        contact: ["https://discord.com/users/807210491193458699", "https://www.facebook.com/profile.php?id=100076954046728"]
+        fronEnd: ["react"],
+        mobileApp: ["react-native"],
+        database: ["mongo"],
+        serverless: ["mongo-realm"],
+        devOps: [ "Nginx"],
+        misc: ["Firebase", "Socket.IO", "AdminJS"],
+        portfolio: "https://arafatrahaman.is-a.dev/"
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
