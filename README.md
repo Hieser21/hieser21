@@ -6,7 +6,7 @@
 
 
 [![](https://img.shields.io/badge/LinkedIn-arafatrahaman-blue)](https://www.linkedin.com/in/arafat-rahman-b00766232/)
-[![](https://img.shields.io/badge/Gmail-rarafat883010%40gmail.com-red)](mailto:rarafat883@gmail.com)
+[![](https://img.shields.io/badge/Gmail-rarafat883%40gmail.com-red)](mailto:rarafat883@gmail.com)
 
   
 
