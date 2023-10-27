@@ -15,7 +15,7 @@ const hieser = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express"],
-        contact: ["https://discord.com/users/807210491193458699", "https://www.facebook.com/profile.php?id=100076954046728"],
+        contact: ["https://discord.com/users/807210491193458699", "https://www.facebook.com/arafatrahman233"],
         fronEnd: ["react"],
         mobileApp: ["react-native"],
         database: ["mongo"],
