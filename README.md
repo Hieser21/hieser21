@@ -14,7 +14,7 @@
 const hieser = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express"],
+        backEnd: ["nodejs", "express", 'nextjs'],
         contact: ["https://discord.com/users/807210491193458699", "https://www.facebook.com/arafatrahman233"],
         fronEnd: ["react"],
         mobileApp: ["react-native"],
@@ -22,7 +22,7 @@ const hieser = {
         serverless: ["mongo-realm"],
         devOps: [ "Nginx"],
         misc: ["Firebase", "Socket.IO", "AdminJS"],
-        portfolio: "https://arafatrahaman.is-a.dev/"
+        portfolio: "https://arafatrahman.pro/"
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
