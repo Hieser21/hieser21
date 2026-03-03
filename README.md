@@ -15,14 +15,13 @@ const hieser = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express", 'nextjs'],
-        contact: ["https://discord.com/users/807210491193458699", "https://www.facebook.com/arafatrahman233"],
+        contact: ['rarafat883@gmail.com'],
         fronEnd: ["react"],
         mobileApp: ["react-native"],
         database: ["mongo"],
         serverless: ["mongo-realm"],
         devOps: [ "Nginx"],
-        misc: ["Firebase", "Socket.IO", "AdminJS"],
-        portfolio: "https://arafatrahman.pro/"
+        misc: ["Firebase", "Socket.IO", "AdminJS"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
