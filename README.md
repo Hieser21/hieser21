@@ -8,14 +8,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-arafatrahaman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rarafat883@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rarafat883%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-rarafat883%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Hieser21&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```javascript
 const hieser = {
@@ -35,7 +35,6 @@ const hieser = {
         "event-driven",
         "Single page applications",
     ],
-    contact: "rarafat883@gmail.com",
 };
 ```
 
@@ -76,5 +75,5 @@ const hieser = {
 ---
 
 <p align="center">
-  <em>Open to collaborating on interesting projects — feel free to reach out! 🚀</em>
+  <em>Open to collaborating on interesting projects — feel free to reach out!</em>
 </p>
