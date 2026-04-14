@@ -64,12 +64,12 @@ const hieser = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hieser21&show_icons=true&theme=tokyonight&hide_border=true" alt="Arafat's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieser21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Hieser21&show_icons=true&theme=tokyonight&hide_border=true" alt="Arafat's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hieser21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieser21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Hieser21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
